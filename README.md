@@ -1,2 +1,3 @@
 # fingerprint-blocker
-Block browser fingerprinting
+
+This browser extension blocks [browser fingerprinting](https://panopticlick.eff.org/).
